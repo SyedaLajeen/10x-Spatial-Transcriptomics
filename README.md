@@ -7,7 +7,7 @@ This repository contains four Jupyter notebooks for spatial transcriptomics anal
 Each notebook is self-contained — it installs its own dependencies, downloads or loads its own dataset, runs the full analysis pipeline, and produces all plots inline.
 
 ---
-
+Thw output images like umap,graphs, clustering are present in the results folder.
 ## 🔬 Technologies and Platforms
 
 | Technology | Description |
