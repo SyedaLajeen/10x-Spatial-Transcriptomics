@@ -269,17 +269,6 @@ Measures whether a gene's expression is spatially structured. I ≈ +1 means nea
 
 ### Image Feature Extraction (Visium)
 For H&E and fluorescence Visium data, `sq.im.calculate_image_features()` extracts pixel statistics within the tissue image crop surrounding each spot. These features form a second data matrix (spot × image-features) that can be clustered independently to compare morphology-based with transcriptome-based groupings.
-
----
-
-## 📚 References
-
-- Palla G et al. (2022). Squidpy: a scalable framework for spatial omics analysis. *Nature Methods* 19, 171–178. https://doi.org/10.1038/s41592-021-01358-2
-- Wolf FA, Angerer P, Theis FJ (2018). SCANPY: large-scale single-cell gene expression data analysis. *Genome Biology* 19, 15. https://doi.org/10.1186/s13059-017-1382-0
-- Marconato L et al. (2024). SpatialData: an open and universal data framework for spatial omics. *Nature Methods* 22, 58–62. https://doi.org/10.1038/s41592-024-02212-x
-- 10x Genomics Xenium dataset: https://www.10xgenomics.com/datasets/preview-data-ffpe-human-lung-cancer-with-xenium-multimodal-cell-segmentation-1-standard
-- 10x Genomics Visium datasets: https://support.10xgenomics.com/spatial-gene-expression/datasets
-
 ---
 
 ## 🔗 Tutorial Links
