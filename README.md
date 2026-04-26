@@ -1,9 +1,4 @@
-# 10x Genomics Spatial Transcriptomics — Assignment
-### Submitted: 26th April 2025
-
-> **Assignment task:** Run and document four official spatial transcriptomics tutorials covering Xenium, Visium H&E, Visium Fluorescence, and Scanpy spatial analysis — using Squidpy and Scanpy on Google Colab.
-
----
+# 10x Genomics Spatial Transcriptomics
 
 ## 🧬 Overview
 
