@@ -269,7 +269,6 @@ Measures whether a gene's expression is spatially structured. I ≈ +1 means nea
 
 ### Image Feature Extraction (Visium)
 For H&E and fluorescence Visium data, `sq.im.calculate_image_features()` extracts pixel statistics within the tissue image crop surrounding each spot. These features form a second data matrix (spot × image-features) that can be clustered independently to compare morphology-based with transcriptome-based groupings.
----
 
 ## 🔗 Tutorial Links
 
